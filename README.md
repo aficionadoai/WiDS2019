@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to Women in Data Science East Lansing @MSU 2019
 
-You can use the [editor on GitHub](https://github.com/rladies-eastlansing/wids2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About
+*WiDS East Lansing* is an independent event organized by R-Ladies East Lansing to coincide with the annual Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS regional events, which features outstanding women doing outstanding work." 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Event Details
+- **When?** April 12, 2019 | 1130a–5p
+- **Where?** College of Natural Sciences, Michigan State University ([288 Farm Ln, East Lansing, MI 48824](https://maps.msu.edu/interactive/index.php?location=UB8Z))
 
-### Markdown
+## Agenda
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Sponsors
+![College of Natural Sciences]()
+![Business Analytics](https://drive.google.com/file/d/1ktsOtDkNV6AfDaxmw9jH2wdK0HhXUYZa/view?usp=sharing)
+![SSDA](https://drive.google.com/file/d/1YwlIo2IYW_Sbrbzx8imNGTRaYrzRPWYv/view?usp=sharing)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Info
+### Location
+College of Natural Sciences, Michigan State University ([288 Farm Ln, East Lansing, MI 48824](https://maps.msu.edu/interactive/index.php?location=UB8Z))
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rladies-eastlansing/wids2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact us
+eastlansing@rladies.org | janani@msu.edu | archerc5@msu.edu OR 517-353-5491 (during office hours)
