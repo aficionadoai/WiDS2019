@@ -19,10 +19,10 @@
 **Lightning Talks & Poster Session**: TBD
 
 ## Sponsors
-![College of Natural Sciences](https://drive.google.com/file/d/1Dg7Z0VAHaXpMybPWajhHEVsJywF5UNjL/view?usp=sharing)
-![MMG](https://drive.google.com/file/d/1yHW6xntC03JGnDW6HNv_8q-WlaNBYgVP/view?usp=sharing)
-![Business Analytics](https://drive.google.com/file/d/1ktsOtDkNV6AfDaxmw9jH2wdK0HhXUYZa/view?usp=sharing)
-![SSDA](https://drive.google.com/file/d/1YwlIo2IYW_Sbrbzx8imNGTRaYrzRPWYv/view?usp=sharing)
+![College of Natural Sciences](https://yt3.ggpht.com/a-/AAuE7mCnpXp958XsF2llIv4petatRpeNNXMeBo__kg=s900-mo-c-c0xffffffff-rj-k-no)
+![MMG](https://pbs.twimg.com/profile_images/1044622456349229062/vD7QG8kf_400x400.jpg)
+![Business Analytics](https://yt3.ggpht.com/a-/AAuE7mCnpXp958XsF2llIv4petatRpeNNXMeBo__kg=s900-mo-c-c0xffffffff-rj-k-no)
+![SSDA](https://bit.ly/2Ckr07f)
 ![CMSE](https://www.egr.msu.edu/~polanco2/Images/CMSE-bigger.png)
 
 
