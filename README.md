@@ -1,4 +1,4 @@
-# Welcome to Women in Data Science East Lansing @MSU 2019
+# Women in Data Science East Lansing @MSU 2019
 
 ## About
 *WiDS East Lansing* is an independent event organized by R-Ladies East Lansing to coincide with the annual Global Women in Data Science (WiDS) Conference held at Stanford University and an estimated 150+ locations worldwide. All genders are invited to attend WiDS regional events, which features outstanding women doing outstanding work." 
@@ -11,8 +11,11 @@
 
 ## Agenda
 **Keynote Speaker**: Robin Buell, Plant Biology, College of Natural Sciences
+
 **Technical Vision Talks**: Liz Munch (CMSE), Paula Winke (Linguistics), Julie Winkler (Geography)
+
 **Career Panel**: Angela Wilson (Chemistry), Ashley Shade (MMG), Yue Qi (EGR)
+
 **Lightning Talks & Poster Session**: TBD
 
 ## Sponsors
