@@ -8,7 +8,8 @@
 ## Event Details
 - **When?** April 12, 2019, 1130a–5p
 - **Where?** College of Natural Sciences, Michigan State University ([288 Farm Ln, East Lansing, MI 48824](https://maps.msu.edu/interactive/index.php?location=UB8Z))
-- **REGISTER** [**here**](https://goo.gl/forms/vBQansRtMtev5eMt1) to attend, present a poster and/or a lightning talk!
+
+[**REGISTER HERE**](https://goo.gl/forms/vBQansRtMtev5eMt1) to attend, present a poster and/or a lightning talk!
 *Lunch provided for registered attendees only.*
 
 ## Agenda
