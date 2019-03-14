@@ -21,7 +21,7 @@ Dr. C. Robin Buell joined the Department of Plant Biology of Michigan State Univ
 
 **Technical Vision Talks**: Liz Munch (CMSE), Paula Winke (Linguistics), Julie Winkler (Geography)
 
-**Career Panel**: Angela Wilson (Chemistry), Ashley Shade (MMG), Yue Qi (EGR)
+**Career Panel**: Angela Wilson (Chemistry), Ashley Shade (MMG), Yue Qi (EGR), Sonja Fritzsche (LingLang)
 
 **Lightning Talks & Poster Session**: TBD
 
