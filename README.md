@@ -19,10 +19,11 @@
 **Lightning Talks & Poster Session**: TBD
 
 ## Sponsors
-<img src="https://yt3.ggpht.com/a-/AAuE7mCnpXp958XsF2llIv4petatRpeNNXMeBo__kg=s900-mo-c-c0xffffffff-rj-k-no" height=300px>
-<img src="https://pbs.twimg.com/profile_images/1044622456349229062/vD7QG8kf_400x400.jpg" height=275px>
-<img src="https://yt3.ggpht.com/a-/AAuE7mCnpXp958XsF2llIv4petatRpeNNXMeBo__kg=s900-mo-c-c0xffffffff-rj-k-no" height=250px
+<img src="https://yt3.ggpht.com/a-/AAuE7mCnpXp958XsF2llIv4petatRpeNNXMeBo__kg=s900-mo-c-c0xffffffff-rj-k-no" height=300px> | <img src="https://yt3.ggpht.com/a-/AAuE7mCnpXp958XsF2llIv4petatRpeNNXMeBo__kg=s900-mo-c-c0xffffffff-rj-k-no" height=250px
+
+<img src="https://pbs.twimg.com/profile_images/1044622456349229062/vD7QG8kf_400x400.jpg" height=275px> |
 <img src="https://bit.ly/2Ckr07f" height=250px>
+
 <img src="https://www.egr.msu.edu/~polanco2/Images/CMSE-bigger.png" height=250px>
 
 
