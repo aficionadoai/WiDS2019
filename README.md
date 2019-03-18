@@ -1,5 +1,5 @@
 ![](https://drive.google.com/uc?export=view&id=1n4zNuguucXDHFBj9c_YtWu_F9aSgNZw7)
-# Welcome to WiDS East Lansing @MSU 2019
+# Welcome to [WiDS East Lansing @MSU 2019](https://github.com/rladies-eastlansing/WiDS2019/wiki)
 
 
 ## About
@@ -10,36 +10,48 @@
 - **Where?** College of Natural Sciences, Michigan State University ([288 Farm Ln, East Lansing, MI 48824](https://maps.msu.edu/interactive/index.php?location=UB8Z))
 
 [**REGISTER HERE**](https://goo.gl/forms/vBQansRtMtev5eMt1) to attend, present a poster and/or a lightning talk!
-
 *Lunch provided for registered attendees only.*
 
-## Agenda
-**Keynote Speaker**: [**Robin Buell**](https://buell-lab.github.io/), Plant Biology, College of Natural Sciences.
+Deadline for poster registration: April 1, 2019.
 
-<img align="left" src="https://msutoday.msu.edu/_/img/assets/2008/c-robin-buell.jpg" height=300px>
-Dr. C. Robin Buell joined the Department of Plant Biology of Michigan State University in October 2007 after spending 9 years at The Institute for Genomic Research. Her research program focuses on the genome biology of plants and plant pathogens, including comparative genomics, bioinformatics, and computational biology. She has worked on the genomes of Arabidopsis, rice, potato, maize, switchgrass, sweetpotato, mints, and medicinal plants. With expertise in bioinformatics, one component of Dr. Buell’s research is provision of databases and web-based data-mining tools for the greater scientific community. Dr. Buell maintains the Rice Genome Annotation Project, which receives over 2 million page visits a year. Dr. Buell earned her BSc from the University of Maryland, her MSc from Washington State University, and her PhD from Utah State University. Dr. Buell has an active research group composed of postdoctoral research fellows, research assistants, graduate students, undergraduate students and high school interns and collaborates with scientists across the United States and throughout the world. She has served as an editor at Plant Physiology, the Plant Genome, Crop Science, Frontiers in Plant Genetics and Genomics, and Plant Cell. She is a fellow of the American Association for the Advancement for Science and the American Society of Plant Biologists, a Michigan State University Foundation Professor and a Michigan State University William J. Beal Distinguished Faculty. At MSU, she is a member of the Plant Breeding, Genetics, and Biotechnology Graduate Program, the Genetics Graduate Program, the Plant Resilience Institute, and MSU AgBioResearch.
+
+## [Agenda](https://github.com/rladies-eastlansing/WiDS2019/wiki/Agenda)
+[Confirmed Speakers](https://github.com/rladies-eastlansing/WiDS2019/wiki/Confirmed-Speakers)
+### Keynotes
+<img align="left" src="https://msutoday.msu.edu/_/img/assets/2008/c-robin-buell.jpg" height=75px>
+<img align="left" src="https://d33wubrfki0l68.cloudfront.net/81279bfb804fd9d905e61628c038c216ab2e6859/f8286/img/blog-images/2017-12-08-rprofile-jenny-bryan/jenny_bryan_lowres.jpg" height=75px>
+
+[**Robin Buell**](https://buell-lab.github.io/), Plant Biology, College of Natural Sciences.
+
+[**Jenny Bryan**](https://jennybryan.org), _virtually from_ University of British Columbia, Canada.
+
+### Technical Vision Talks
+- Liz Munch (CMSE)
+- Paula Winke (Linguistics)
+- Julie Winkler (Geography)
+
+### Career Panel
+- Sonja Fritzsche (German Studies)
+- Yue Qi (EGR)
+- Ashley Shade (MMG)
+- Angela Wilson (Chemistry)
+
+### Lightning Talks & Poster Session
+TBD
+
+## [Sponsors](https://github.com/rladies-eastlansing/WiDS2019/wiki/Sponsors)
+<img src="https://yt3.ggpht.com/a-/AAuE7mCnpXp958XsF2llIv4petatRpeNNXMeBo__kg=s900-mo-c-c0xffffffff-rj-k-no" height=100px> <img src="https://pbs.twimg.com/profile_images/1119786377/BEACON_Logo_May_2010.png" height=100px>
+
+<img src="https://pbs.twimg.com/profile_images/1044622456349229062/vD7QG8kf_400x400.jpg" height=100px>
+
+<img src="https://www.egr.msu.edu/~polanco2/Images/CMSE-bigger.png" height=100px> <img src="http://www.michiganbusinessnetwork.com/hs-fs/hubfs/broad.png?width=191&height=97&name=broad.png" height=100px> <img src="https://bit.ly/2Ckr07f" height=100px>
 
 ***
 
-**Technical Vision Talks**: Liz Munch (CMSE), Paula Winke (Linguistics), Julie Winkler (Geography)
+## Hosted By [R-Ladies East Lansing](https://rladies-eastlansing.github.io)
+![](https://secure.meetupstatic.com/photos/event/2/8/b/0/600_472210416.jpeg)
 
-**Career Panel**: Angela Wilson (Chemistry), Ashley Shade (MMG), Yue Qi (EGR), Sonja Fritzsche (LingLang)
-
-**Lightning Talks & Poster Session**: TBD
-
-***
-
-## Sponsors
-<img src="https://yt3.ggpht.com/a-/AAuE7mCnpXp958XsF2llIv4petatRpeNNXMeBo__kg=s900-mo-c-c0xffffffff-rj-k-no" height=300px> <img src="https://pbs.twimg.com/profile_images/1044622456349229062/vD7QG8kf_400x400.jpg" height=275px>
-
-<img src="http://www.michiganbusinessnetwork.com/hs-fs/hubfs/broad.png?width=191&height=97&name=broad.png" height=250px> <img src="https://bit.ly/2Ckr07f" height=250px>
-
-<img src="https://www.egr.msu.edu/~polanco2/Images/CMSE-bigger.png" height=250px>
-
-
-## Info
-### Location
-College of Natural Sciences, Michigan State University ([288 Farm Ln, East Lansing, MI 48824](https://maps.msu.edu/interactive/index.php?location=UB8Z))
-
-### Contact us
-eastlansing@rladies.org | janani@msu.edu | archerc5@msu.edu OR 517-353-5491 (during office hours)
+**Contact us**
+- [R-Ladies East Lansing](//rladies-eastlansing.github.io): [Email](eastlansing@rladies.org) | [Meetup](//meetup.com/rladies-eastlansing) | [Twitter](//twitter.com/RLadiesELansing) | [Slack](https://rladies-eastlansing.slack.com) | [GitHub](//github.com/rladies-eastlansing)
+- [Janani Ravi](//jananiravi.github.io): [Email](janani@msu.edu) | [Twitter](//twitter.com/janani137) | [GitHub](//github.com/jananiravi)
+- [Camille Archer](https://icer.msu.edu/about/directory/archer): [Email](archerc5@msu.edu) | [Twitter](//twitter.com/CamilleArcher5) | [GitHub](//github.com/archerc5)
