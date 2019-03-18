@@ -39,7 +39,8 @@ Deadline for poster registration: April 1, 2019.
 
 ### Lightning Talks & Poster Session
 TBD
-[Register here](http://bit.ly/rlel-wids2019) by April 1!
+
+To present, [register here](http://bit.ly/rlel-wids2019) by April 1!
 
 ## [Sponsors](https://github.com/rladies-eastlansing/WiDS2019/wiki/Sponsors)
 <img src="https://yt3.ggpht.com/a-/AAuE7mCnpXp958XsF2llIv4petatRpeNNXMeBo__kg=s900-mo-c-c0xffffffff-rj-k-no" height=100px> <img src="https://pbs.twimg.com/profile_images/1119786377/BEACON_Logo_May_2010.png" height=100px>
