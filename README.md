@@ -7,12 +7,12 @@
 
 ## Event Details
 - **When?** April 12, 2019, 1130a–5p
-- **Where?** College of Natural Sciences, Michigan State University ([288 Farm Ln, East Lansing, MI 48824](https://maps.msu.edu/interactive/index.php?location=UB8Z))
+- **Where?** Natural Science Building Rm 128, Michigan State University ([288 Farm Ln, East Lansing, MI 48824](https://maps.msu.edu/interactive/index.php?location=UB8Z))
 
 [**REGISTER HERE**](https://goo.gl/forms/vBQansRtMtev5eMt1) to attend, present a poster and/or a lightning talk!
 *Lunch provided for registered attendees only.*
 
-Deadline for poster registration: April 1, 2019.
+Deadline for poster registration: April 5, 2019.
 
 
 ## [Confirmed Speakers](https://github.com/rladies-eastlansing/WiDS2019/wiki/Confirmed-Speakers)
@@ -28,7 +28,6 @@ Deadline for poster registration: April 1, 2019.
 
 ### Technical Vision Talks
 - Liz Munch (CMSE)
-- Paula Winke (Linguistics)
 - Julie Winkler (Geography)
 
 ### Career Panel
@@ -40,7 +39,7 @@ Deadline for poster registration: April 1, 2019.
 ### Lightning Talks & Poster Session
 TBD
 
-To present, [register here](http://bit.ly/rlel-wids2019) by April 1!
+To present, [register here](http://bit.ly/rlel-wids2019) by April 5!
 
 ## [Sponsors](https://github.com/rladies-eastlansing/WiDS2019/wiki/Sponsors)
 <img src="https://yt3.ggpht.com/a-/AAuE7mCnpXp958XsF2llIv4petatRpeNNXMeBo__kg=s900-mo-c-c0xffffffff-rj-k-no" height=100px> <img src="https://pbs.twimg.com/profile_images/1119786377/BEACON_Logo_May_2010.png" height=100px>
